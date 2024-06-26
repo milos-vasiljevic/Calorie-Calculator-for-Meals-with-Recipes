@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">NutritionTrackerRMA</string>
+    <string name="homepage">Home Page</string>
+    <string name="filter">Filter</string>
+    <string name="meals">Meals</string>
+    <string name="savedMeals">Saved Meals</string>
+    <string name="filterByKcal">Filter By Kcal</string>
+    <string name="reset">Reset</string>
+    <string name="api">API</string>
+    <string name="db">Database</string>
+    <string name="area">Area</string>
+    <string name="category">Category</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="measure">Measure</string>
+    <string name="asc">Sort Asc</string>
+    <string name="desc">Sort Des</string>
+    <string name="showRec">Show Recipe</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="mealName">Meal name</string>
+    <string name="instructions">Instructions</string>
+    <string name="link">Video URL</string>
+    <string name="tags">Tags</string>
+    <string name="thumb">Thumbnail URL</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="selDate">Select Date</string>
+    <string-array name="spinnerMeals">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+    <string name="update">Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="breakf">Breakfast</string>
+    <string name="lun">Lunch</string>
+    <string name="din">Dinner</string>
+    <string name="mondayShort">M</string>
+    <string name="tuesdayShort">T</string>
+    <string name="wednesdayShort">W</string>
+    <string name="thursdayShort">T</string>
+    <string name="fridayShort">F</string>
+    <string name="saturdayShort">S</string>
+    <string name="sundayShort">S</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="sendEmail">Send in Email</string>
+    <string name="fromKcal">From Kcal...</string>
+    <string name="toKcal">To Kcal...</string>
+</resources>
